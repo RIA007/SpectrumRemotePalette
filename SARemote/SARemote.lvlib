@@ -14,11 +14,12 @@
 	<Item Name="ConfCenterSpan.vi" Type="VI" URL="../ConfCenterSpan.vi"/>
 	<Item Name="ConfigureDeltaMarkerPosition.vi" Type="VI" URL="../ConfigureDeltaMarkerPosition.vi"/>
 	<Item Name="Initialize.vi" Type="VI" URL="../Initialize.vi"/>
-	<Item Name="QPNRDecode.vi" Type="VI" URL="../QPNRDecode.vi"/>
+	<Item Name="QPNRDecode.vi" Type="VI" URL="/&lt;vilib&gt;/SARemote/QPNRDecode.vi"/>
 	<Item Name="QueryPhaseNoiseResult.vi" Type="VI" URL="../QueryPhaseNoiseResult.vi"/>
 	<Item Name="ReadYTrace.vi" Type="VI" URL="../ReadYTrace.vi"/>
-	<Item Name="RYTDecode.vi" Type="VI" URL="../RYTDecode.vi"/>
+	<Item Name="RYTDecode.vi" Type="VI" URL="/&lt;vilib&gt;/SARemote/RYTDecode.vi"/>
 	<Item Name="SADecode.vi" Type="VI" URL="../SADecode.vi"/>
 	<Item Name="SendComands.vi" Type="VI" URL="../SendComands.vi"/>
+	<Item Name="SetNofPoints.vi" Type="VI" URL="../SetNofPoints.vi"/>
 	<Item Name="SetRVBW.vi" Type="VI" URL="../SetRVBW.vi"/>
 </Library>
