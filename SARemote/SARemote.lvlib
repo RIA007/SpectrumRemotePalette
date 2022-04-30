@@ -4,11 +4,11 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">385908736</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="private" Type="Folder">
-		<Item Name="Arduino_HTTP_GetRequest.vi" Type="VI" URL="../private/Arduino_HTTP_GetRequest.vi"/>
-		<Item Name="HTTP_GET_Test_Arduino_AddData.vi" Type="VI" URL="../private/HTTP_GET_Test_Arduino_AddData.vi"/>
-		<Item Name="HTTP_GET_Test_Arduino_GetData.vi" Type="VI" URL="../private/HTTP_GET_Test_Arduino_GetData.vi"/>
-		<Item Name="HTTP_GET_Test_RemoveOneUserData.vi" Type="VI" URL="../private/HTTP_GET_Test_RemoveOneUserData.vi"/>
-		<Item Name="IDCheck.vi" Type="VI" URL="../private/IDCheck.vi"/>
+		<Item Name="Arduino_HTTP_GetRequest.vi" Type="VI" URL="/&lt;vilib&gt;/SARemote/private/Arduino_HTTP_GetRequest.vi"/>
+		<Item Name="HTTP_GET_Test_Arduino_AddData.vi" Type="VI" URL="/&lt;vilib&gt;/SARemote/private/HTTP_GET_Test_Arduino_AddData.vi"/>
+		<Item Name="HTTP_GET_Test_Arduino_GetData.vi" Type="VI" URL="/&lt;vilib&gt;/SARemote/private/HTTP_GET_Test_Arduino_GetData.vi"/>
+		<Item Name="HTTP_GET_Test_RemoveOneUserData.vi" Type="VI" URL="/&lt;vilib&gt;/SARemote/private/HTTP_GET_Test_RemoveOneUserData.vi"/>
+		<Item Name="IDCheck.vi" Type="VI" URL="/&lt;vilib&gt;/SARemote/private/IDCheck.vi"/>
 		<Item Name="ParseInputStr.vi" Type="VI" URL="../private/ParseInputStr.vi"/>
 	</Item>
 	<Item Name="ConfCenterSpan.vi" Type="VI" URL="../ConfCenterSpan.vi"/>
