@@ -4,22 +4,22 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">385908736</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="private" Type="Folder">
-		<Item Name="Arduino_HTTP_GetRequest.vi" Type="VI" URL="../private/Arduino_HTTP_GetRequest.vi"/>
+		<Item Name="Arduino_HTTP_GetRequest.vi" Type="VI" URL="/&lt;vilib&gt;/SARemote/private/Arduino_HTTP_GetRequest.vi"/>
 		<Item Name="HTTP_GET_Test_Arduino_AddData.vi" Type="VI" URL="/&lt;vilib&gt;/SARemote/private/HTTP_GET_Test_Arduino_AddData.vi"/>
 		<Item Name="HTTP_GET_Test_Arduino_GetData.vi" Type="VI" URL="/&lt;vilib&gt;/SARemote/private/HTTP_GET_Test_Arduino_GetData.vi"/>
 		<Item Name="HTTP_GET_Test_RemoveOneUserData.vi" Type="VI" URL="/&lt;vilib&gt;/SARemote/private/HTTP_GET_Test_RemoveOneUserData.vi"/>
 		<Item Name="IDCheck.vi" Type="VI" URL="/&lt;vilib&gt;/SARemote/private/IDCheck.vi"/>
-		<Item Name="ParseInputStr.vi" Type="VI" URL="../private/ParseInputStr.vi"/>
+		<Item Name="ParseInputStr.vi" Type="VI" URL="/&lt;vilib&gt;/SARemote/private/ParseInputStr.vi"/>
 	</Item>
-	<Item Name="ConfCenterSpan.vi" Type="VI" URL="../ConfCenterSpan.vi"/>
-	<Item Name="ConfigureDeltaMarkerPosition.vi" Type="VI" URL="../ConfigureDeltaMarkerPosition.vi"/>
-	<Item Name="Initialize.vi" Type="VI" URL="../Initialize.vi"/>
+	<Item Name="ConfCenterSpan.vi" Type="VI" URL="/&lt;vilib&gt;/SARemote/ConfCenterSpan.vi"/>
+	<Item Name="ConfigureDeltaMarkerPosition.vi" Type="VI" URL="/&lt;vilib&gt;/SARemote/ConfigureDeltaMarkerPosition.vi"/>
+	<Item Name="Initialize.vi" Type="VI" URL="/&lt;vilib&gt;/SARemote/Initialize.vi"/>
 	<Item Name="QPNRDecode.vi" Type="VI" URL="/&lt;vilib&gt;/SARemote/QPNRDecode.vi"/>
-	<Item Name="QueryPhaseNoiseResult.vi" Type="VI" URL="../QueryPhaseNoiseResult.vi"/>
-	<Item Name="ReadYTrace.vi" Type="VI" URL="../ReadYTrace.vi"/>
+	<Item Name="QueryPhaseNoiseResult.vi" Type="VI" URL="/&lt;vilib&gt;/SARemote/QueryPhaseNoiseResult.vi"/>
+	<Item Name="ReadYTrace.vi" Type="VI" URL="/&lt;vilib&gt;/SARemote/ReadYTrace.vi"/>
 	<Item Name="RYTDecode.vi" Type="VI" URL="/&lt;vilib&gt;/SARemote/RYTDecode.vi"/>
-	<Item Name="SADecode.vi" Type="VI" URL="../SADecode.vi"/>
-	<Item Name="SendComands.vi" Type="VI" URL="../SendComands.vi"/>
-	<Item Name="SetNofPoints.vi" Type="VI" URL="../SetNofPoints.vi"/>
-	<Item Name="SetRVBW.vi" Type="VI" URL="../SetRVBW.vi"/>
+	<Item Name="SADecode.vi" Type="VI" URL="/&lt;vilib&gt;/SARemote/SADecode.vi"/>
+	<Item Name="SendComands.vi" Type="VI" URL="/&lt;vilib&gt;/SARemote/SendComands.vi"/>
+	<Item Name="SetNofPoints.vi" Type="VI" URL="/&lt;vilib&gt;/SARemote/SetNofPoints.vi"/>
+	<Item Name="SetRVBW.vi" Type="VI" URL="/&lt;vilib&gt;/SARemote/SetRVBW.vi"/>
 </Library>
